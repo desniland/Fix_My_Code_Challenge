@@ -1,17 +1,10 @@
-### Fix my code
+# FIX MY CODE CHALLENGE 
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZCqJsamLdBRjlyX7wnrWB6snVXixERYTRgw&usqp=CAU" width="1500" height="400">
 
-##Background Context
-- Fix my code is a new type of project, where we’ll jump into an existing code base and fix it!
+## ___RESOURCES___
+- [FIX MY CODE CHALLENGE ](https://github.com/holbertonschool/0x00-Fix_My_Code_Challenge)
+- [The Most Popular Coding Challenge Websites](https://www.freecodecamp.org/news/the-most-popular-coding-challenge-websites/)
 
-  Sometimes you will know the language, sometimes not.
+## AUTHOR
 
-  Please download the repository 0x00-Fix_My_Code_Challenge and use it as initial files for all solutions.
-
-  You should not recode everything, just fix it!
-
-#Requirements
-#General
-- Allowed editors: vi, vim, emacs
-- All your files will be compiled on Ubuntu 20.04 LTS
-- All your files should end with a new line
-- A README.md file, at the root of the folder of the project is mandatory
+### ___[DESMOND MARIWA](https://github.com/desniland)___
